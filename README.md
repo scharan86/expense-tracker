@@ -2,6 +2,8 @@
 
 A simple expense tracking website I built for my college Web Technologies course. It lets you add expenses, categorize them, and see where your money goes.
 
+![WhatsApp Image 2025-11-16 at 11 41 00 AM](https://github.com/user-attachments/assets/7255c974-c1d0-4364-a235-79b92db8ee39)
+
 ## What it does
 
 - Add and delete expenses
